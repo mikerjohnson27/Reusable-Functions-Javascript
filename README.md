@@ -1,22 +1,15 @@
-# Reusable-Functions-Javascript
-A repo of reusable functions for JavaScript (Front End &amp; Backend).
-<p><code>foo</code></p>
+<h1>Reusable-Functions-Javascript</h1>
+<h3>A repo of reusable functions for JavaScript (Front End & Backend).</h3>
 
-<details><summary>CLICK ME</summary>
-<p>
-
-```````javascript
-   puts "Hello World"
-```````
-
-</p>
-</details>
+<h2>How To Use<h2>
+    <h4>Select Your language and/or framework press 
+    <code>Ctrl + F </code>
+    to search though the document.</h4>
 
 <details><summary>Sources</summary>
 <p>
 
-## Sources
+## Sources To Make This Repo
 * [Git Hub Docs](https://docs.github.com)
-
 </p>
 </details>
